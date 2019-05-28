@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimUDuck.App", "SimUDuck.App\SimUDuck.App.csproj", "{78FD13F6-0C14-4ED0-8897-9441C439002C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78FD13F6-0C14-4ED0-8897-9441C439002C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FD13F6-0C14-4ED0-8897-9441C439002C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FD13F6-0C14-4ED0-8897-9441C439002C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FD13F6-0C14-4ED0-8897-9441C439002C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5793FE53-4D94-41F7-98BC-D3971E3D8A60}
+	EndGlobalSection
+EndGlobal
